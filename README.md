@@ -41,9 +41,4 @@ A simple yet effective Arduino embedded project that cycle-controls three LEDs (
 
 ---
 
-## 🚀 How to Run
 
-1. Clone or download this repository.
-2. Open the .ino file in **ATinkercador **Tinkercad**.
-3. Connect the hardware according to the pinout table.
-4. Select your board and pUploadclick **Upload**.
