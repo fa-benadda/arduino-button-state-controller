@@ -40,5 +40,10 @@ A simple yet effective Arduino embedded project that cycle-controls three LEDs (
 3. **State 3 (x = 3):** Red LED ON, others OFF.
 
 ---
+## 🚀 How to Run
 
+1. Clone or download this repository.
+2. Open the .ino file in **ATinkercador **Tinkercad**,or **Wokwi**
+3. Connect the hardware according to the pinout table.
+4. Select your board and pUploadclick **Upload**.
 
